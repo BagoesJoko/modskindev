@@ -4,6 +4,10 @@
       "name": "male01.txd",
       "url": "https://raw.githubusercontent.com/BagoesJoko/modskindev/main/male01.txd"
     },
+     {
+      "name": "CapTrucker1.dff",
+      "url": "https://raw.githubusercontent.com/BagoesJoko/modskindev/main/CapTrucker1.dff"
+    },
     {
       "name": "male01.dff",
       "url": "https://raw.githubusercontent.com/BagoesJoko/modskindev/main/male01.dff"
@@ -62,6 +66,7 @@
     }
   ]
 }
+
 
 
 
