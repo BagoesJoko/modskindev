@@ -55,9 +55,14 @@
     {
       "name": "Capback3.dff",
       "url": "https://raw.githubusercontent.com/BagoesJoko/modskindev/main/Capback3.dff"
+    },
+    {
+      "name": "MatClothes.txd",
+      "url": "https://raw.githubusercontent.com/BagoesJoko/modskindev/main/MatClothes.txd"
     }
   ]
 }
+
 
 
 
